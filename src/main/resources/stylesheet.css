@@ -1,0 +1,10 @@
+
+#separator .line {
+    -fx-border-color: grey;
+    -fx-border-width : 0.5 0.5 0.5 0.5;
+}
+
+#headerLabel{
+    -fx-background-color : rgba(211,211,211, 0.6);
+    -fx-padding: 8 0 8 0;
+}
